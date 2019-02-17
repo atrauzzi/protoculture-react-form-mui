@@ -21,7 +21,7 @@
     "chownr": "^1.0.1",
     "lodash": "^4.17.11",
     "protoculture": "^2.0.92",
-    "protoculture-react-form": "^1.0.0",
+    "protoculture-react-form": "^1.0.40",
     "react": "^16.6.3",
     "y18n": "^3.2.1"
   },
