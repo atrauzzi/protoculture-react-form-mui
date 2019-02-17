@@ -113,6 +113,7 @@
     "prepend-http": "2.0.0",
     "p-is-promise": "2.0.0",
     "jsesc": "2.5.2",
-    "source-map-support": "0.5.9"
+    "source-map-support": "0.5.9",
+    "@types/react": "16.8.3"
   }
 }
